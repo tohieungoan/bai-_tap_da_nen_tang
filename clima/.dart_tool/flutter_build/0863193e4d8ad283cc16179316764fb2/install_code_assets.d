@@ -1,0 +1,1 @@
+ /mnt/data/Languages/flutter/PROJECT/clima/.dart_tool/flutter_build/0863193e4d8ad283cc16179316764fb2/native_assets.json: 

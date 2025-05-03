@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/cmake_install.cmake",
+		"/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

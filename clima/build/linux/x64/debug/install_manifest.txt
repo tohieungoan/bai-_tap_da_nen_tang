@@ -1,0 +1,16 @@
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/clima
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/icudtl.dat
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/fonts/SpartanMB-Black.otf
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/images/location_background.jpg
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/images/city_background.jpg
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/mnt/data/Languages/flutter/PROJECT/clima/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
